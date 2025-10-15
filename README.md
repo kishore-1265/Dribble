@@ -201,31 +201,11 @@ PROGRAM :
 
 ```
 OUTPUT:
+<img width="1918" height="902" alt="Screenshot 2025-10-15 155906" src="https://github.com/user-attachments/assets/6180c9a3-63c8-4f62-8bef-89853b0be3c2" />
+
 <img width="912" height="423" alt="Screenshot 2025-10-15 155926" src="https://github.com/user-attachments/assets/5be0a5cb-6a3f-4521-99fa-a257accba34a" />
 
 RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-HTML
-65.3%
- 
-Python
-34.7%
-Footer
+
